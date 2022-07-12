@@ -1,4 +1,3 @@
-from matplotlib.pyplot import plot
 import streamlit as st
 import streamlit_option_menu as som
 import plotly.graph_objects as go
