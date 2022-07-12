@@ -3,3 +3,6 @@ base="light"
 primaryColor="#1f5af3"
 secondaryBackgroundColor="#dfe5f1"
 textColor="#020202"
+
+[runner]
+magicEnabled = false
